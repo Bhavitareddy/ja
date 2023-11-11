@@ -6,7 +6,7 @@ import {BsBriefcaseFill} from 'react-icons/bs'
 import {BiLinkExternal} from 'react-icons/bi'
 import Loader from 'react-loader-spinner'
 
-import SkillsCard from '../SkillsCard'
+import SkillsCard from '../SkillCards'
 import Header from '../Header'
 import SimilarJobItem from '../SimilarJobItem'
 import './index.css'
